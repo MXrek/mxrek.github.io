@@ -1,2 +1,43 @@
-MX srever 官网/博客
-<!DOCTYPE html> <html lang="zh"> <head> <meta charset="utf-8"/>  -  <link rel="shortcut icon" href="https://www.mdeditor.com/images/logos/favicon.ico" type="image/x-icon"/> </head> <body><h1 id="h1--makdown-"><a name="首先，感谢Makdown提供的支持" class="reference-link"></a><span class="header-link octicon octicon-link"></span>首先，感谢Makdown提供的支持</h1><h4 id="h4--markdown-"><a name="什么是Markdown？" class="reference-link"></a><span class="header-link octicon octicon-link"></span>什么是Markdown？</h4><h4 id="h4-markdown-html-"><a name="Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。" class="reference-link"></a><span class="header-link octicon octicon-link"></span>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。</h4><h1 id="h1--mxsrever-"><a name="欢迎来MXsrever服务器的官方博客/官网" class="reference-link"></a><span class="header-link octicon octicon-link"></span>欢迎来MXsrever服务器的官方博客/官网</h1><h2 id="h2--mx-server-"><a name="为什么要选择MX server？" class="reference-link"></a><span class="header-link octicon octicon-link"></span>为什么要选择MX server？</h2><h3 id="h3-mxserver-mc-"><a name="MXserver为你提供MC国服全新的生存服务器体验" class="reference-link"></a><span class="header-link octicon octicon-link"></span>MXserver为你提供MC国服全新的生存服务器体验</h3><h3 id="h3-1-mx-serever-"><a name="1.MX serever的运营团队拥有足够的资金，这使得服务器可以长时间运营" class="reference-link"></a><span class="header-link octicon octicon-link"></span>1.MX serever的运营团队拥有足够的资金，这使得服务器可以长时间运营</h3><h3 id="h3-2-mx-server-"><a name="2.MX server拥有服务器中的法律，不怕坑！" class="reference-link"></a><span class="header-link octicon octicon-link"></span>2.MX server拥有服务器中的法律，不怕坑！</h3><h3 id="h3-3-mx-server-mx-"><a name="3.MX server几乎每天都在更新玩法，由我们管理的MX+主城更是每天都在更新新区域，新的交通方式" class="reference-link"></a><span class="header-link octicon octicon-link"></span>3.MX server几乎每天都在更新玩法，由我们管理的MX+主城更是每天都在更新新区域，新的交通方式</h3><h3 id="h3-4-mx-server-"><a name="4.MX server保证不会有关于氪金的相关事项" class="reference-link"></a><span class="header-link octicon octicon-link"></span>4.MX server保证不会有关于氪金的相关事项</h3><hr> <hr> <h1 id="h1-u7EC4u5458u4ECAu65E5u8BF4"><a name="组员今日说" class="reference-link"></a><span class="header-link octicon octicon-link"></span>组员今日说</h1><h2 id="h2-mxrek-mc-"><a name="MXrek（服主）：今天就是今天，给广大的MC国服受害者提供高质量的游戏体验，坚持做到让玩家不氪金，不做氪金相关的服务！" class="reference-link"></a><span class="header-link octicon octicon-link"></span>MXrek（服主）：今天就是今天，给广大的MC国服受害者提供高质量的游戏体验，坚持做到让玩家不氪金，不做氪金相关的服务！</h2><h2 id="h2--"><a name="可乐 （服务器团队成员）：这服超级好玩，是我玩的最好服务器，服主很善良，我第一次进服进感觉好玩（腐竹：蛤）" class="reference-link"></a><span class="header-link octicon octicon-link"></span>可乐 （服务器团队成员）：这服超级好玩，是我玩的最好服务器，服主很善良，我第一次进服进感觉好玩（腐竹：蛤）</h2><h2 id="h2--"><a name="毒液糖（服务器团队成员）：这个服务器我感觉非常的好，尤其是大厦的工作系统，感觉自己想在工作似的，飞行游戏有各种障碍，很有挑战性!（腐竹：蛤啊啊啊啊）" class="reference-link"></a><span class="header-link octicon octicon-link"></span>毒液糖（服务器团队成员）：这个服务器我感觉非常的好，尤其是大厦的工作系统，感觉自己想在工作似的，飞行游戏有各种障碍，很有挑战性!（腐竹：蛤啊啊啊啊）</h2><h4 id="h4-by-mxrek-mx-server"><a name="By MXrek MX server" class="reference-link"></a><span class="header-link octicon octicon-link"></span>By MXrek MX server</h4></body> </html>
+#MX server官方博客/网站
+###感谢为我们提供支持的Makdown
+####请注意，本网站在2019-06-08 19:45:28 星期六进行了更新，部分内容可能不是最新的。
+
+------------
+
+ [前往我们的QQ群](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "前往我们的QQ群")
+
+------------
+
+
+#为什么要选择MX server？
+###注：MX server的目的是为了拯救在国服的服务器乱关，没有钱买国际版，服务器不好玩，没有特点，不安稳的那些火热的MC国服玩家得到良好的游戏体验，所以才会有以下特点
+##1.服务器可以运行多少时间？
+####我们的服务器运营团队拥有足够的基金运营服务器，不会出现倒闭跑路的情况
+##2.服务器好玩吗？
+#### 这点您可以完全放心，我们会在每个工作日（星期日/星期天）对主城的玩法进行更新
+##3.服务器安全吗？
+####同样，您可以完全放心，我们拥有限制影响他人游戏利益的规定
+
+------------
+
+ [前往我们的QQ群](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "前往我们的QQ群")
+
+------------
+
+# 组员今日Say
+### MXrek（服主）说：今天就是今天，给广大的MC国服受害者提供高质量的游戏体验，坚持做到让玩家不氪金，不做氪金相关的服务！
+### 小邱（运营组组员）说：这服超级好玩，是我玩的最好服务器，服主很善良，我第一次进服进感觉好玩。
+### wosabi（芥末酱）（运营组组员）说：这个服务器我感觉非常的好，尤其是大厦的工作系统，感觉自己想在工作似的，飞行游戏有各种障碍，很有挑战性!
+
+
+
+
+
+------------
+ [前往我们的QQ群](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "前往我们的QQ群")
+
+------------
+
+####本网站由github以及Makdown提供支持
+####MX server&reg; 2019版权所有&copy;
+
