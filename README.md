@@ -1,5 +1,5 @@
 ![](https://i.loli.net/2019/06/09/5cfc7f8206b8532610.jpg)
-#欢迎来到MX server官方网站
+# 欢迎来到MX server官方网站
 
 
 ## 本网站会帮助您了解MX server的相关信息 
