@@ -1,6 +1,8 @@
+![](https://i.loli.net/2019/06/09/5cfc7f8206b8532610.jpg)
 # 欢迎来到MX server MC国服服务器官方网站
-### 本网站会帮助您了解MX server的相关信息
+## 本网站会帮助您了解MX server的相关信息
 # 为什么要选择MX server？这个服务器的特点是什么？
+ ![](https://i.loli.net/2019/06/09/5cfc80c99ac1962436.jpg)
 ### Hey！
 ## 首先，请注意，本网站在2019-06-08 22:53:55 星期六 星期六进行了修订，部分内容可能不是最新的。
 ## 注：
@@ -21,11 +23,14 @@
 #### 同样，您可以完全放心，我们拥有限制影响他人游戏利益的规定
 
 ------------
+![](https://i.loli.net/2019/06/09/5cfc7ce6ce64398838.jpg)
+
+------------
 以上
 ------------
 
 
- 想要加入我们？[前往我们的QQ群吧](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "前往我们的QQ群")
+### 想要加入我们？[前往我们的QQ群吧](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "前往我们的QQ群")
 
 ------------
 
