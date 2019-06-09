@@ -43,9 +43,12 @@
 ------------
 
 # 联系我们
-你可以通过[点击这里](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "点击这里")联系我们，并注明（CMG）
+## 你可以通过[点击这里](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "点击这里")联系我们，并注明（CMG）
 
 
+------------
+
+## 获得技术支持，就在[MXserver帮助中心](mxserverhelp.github.io "MXserver帮助中心")
 
 ------------
 ![](https://i.loli.net/2019/06/09/5cfc7ce6ce64398838.jpg)
